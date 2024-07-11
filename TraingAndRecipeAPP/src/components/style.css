@@ -1,0 +1,230 @@
+* {
+  margin: 0;
+  padding: 0;
+  font-family: "Poppins", sans-serif;
+}
+body {
+  height: 100%;
+  background: rgb(255, 150, 0);
+  background: radial-gradient(circle);
+}
+.header {
+  background-color: black;
+  height: auto;
+  width: 100%;
+  height: 100%;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 30px;
+}
+nav ul {
+  display: flex;
+}
+nav ul li {
+  list-style: none;
+}
+nav ul li a {
+  text-decoration: blink;
+  color: white;
+  font-size: 1.5rem;
+  font-weight: bold;
+  justify-content: left;
+}
+.logoCointainer {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+}
+.logoCointainer li {
+  list-style: none;
+  margin-right: 2rem;
+}
+.container {
+  margin: auto;
+  width: 25%;
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+}
+.filmsCointainer {
+  width: 100%;
+  padding: 20px;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+}
+.filmCointainer {
+  width: 25%;
+  min-height: 200px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.movieData {
+  display: flex;
+  flex-direction: column;
+}
+.logRegButton {
+  justify-self: flex-end;
+}
+.searchbtn {
+  background-color: orange;
+  width: 100px;
+  height: 40px;
+  border-radius: 10px;
+  border-top-left-radius: 10px !important;
+  border-bottom-left-radius: 10px !important;
+}
+.search {
+  color: white;
+}
+.input-group {
+  gap: 10px;
+}
+.label {
+  color: black;
+  justify-content: center;
+}
+.logoLink {
+  text-decoration: none;
+  font-weight: bold;
+  color: orange;
+  font-size: 25px;
+  transition-duration: 0.5s;
+}
+.logoLink:hover {
+  color: grey;
+}
+.login {
+  color: white;
+  background-color: orange;
+  width: 100px;
+  height: 40px;
+  margin-right: 20px;
+}
+
+.register {
+  color: white;
+  background-color: orange;
+  width: 100px;
+  height: 40px;
+  margin-right: 20px;
+}
+.register:hover {
+  background-color: grey;
+}
+.registerForm {
+  width: 20%;
+  margin-bottom: 265px;
+  margin-right: auto;
+  margin-left: auto;
+  background-color: black;
+  padding: 20px;
+  border-radius: 20px;
+  color: orange;
+}
+.deleteButton {
+  color: white;
+  background-color: red;
+  width: 100px;
+  height: 30px;
+  margin-right: 20px;
+  margin-left: 22px;
+  margin-top: 10px;
+}
+.deleteButtonCointainer {
+  display: flex;
+}
+.movieDetails {
+  color: white;
+  background-color: black;
+  width: 100px;
+  height: 40px;
+  margin-right: 20px;
+}
+.movieDetails:hover {
+  background-color: darkorange;
+}
+.login:hover {
+  background-color: grey;
+}
+.loginForm {
+  width: 20%;
+  margin-right: auto;
+  margin-left: auto;
+  background-color: black;
+  padding: 20px;
+  border-radius: 20px;
+  color: orange;
+  margin-bottom: 320px;
+}
+.addMovie {
+  color: white;
+  background-color: orange;
+  width: 100px;
+  height: 55px;
+  margin-right: 20px;
+}
+.addMovie:hover {
+  background-color: grey;
+}
+.buttonDetails {
+  display: flex;
+  justify-content: center;
+  width: 100%;
+  margin-left: 10px;
+}
+.searchDiv {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+  gap: 10px;
+}
+.filmdescription {
+  margin-bottom: 215px;
+}
+
+.description {
+  font-size: 15px;
+  font-weight: bold;
+  font-family: tratello;
+}
+.poster {
+  box-shadow: 10px 8px 14px black;
+}
+.poster1 {
+  size: 1px;
+}
+.star {
+  width: 30px;
+  height: auto;
+}
+.movie1 {
+  display: flex;
+  justify-content: flex-start;
+  margin: 20px;
+}
+.title {
+  font-size: 25px;
+  font-weight: bold;
+}
+.box {
+  display: flex;
+  justify-content: center;
+  margin: 20px;
+  font-size: 20px;
+  font-weight: bold;
+}
+.rating {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+p {
+  color: black;
+}
