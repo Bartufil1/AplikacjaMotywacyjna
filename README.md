@@ -1,4 +1,4 @@
-Aplikacja motywujaca do prowadzenia zdrowego trybu życia
+#Aplikacja motywujaca do prowadzenia zdrowego trybu życia
 ## Ekran główny aplikacji
 ![Screenshot_1](https://github.com/Bartufil1/AplikacjaMotywacyjna/assets/104689537/0e6d10d3-3dfd-4c1a-8842-da77c6127d08)
 ## Ekran Rejestracji oraz logowania
