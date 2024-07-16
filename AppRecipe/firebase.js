@@ -6,12 +6,12 @@ import {getAuth} from "firebase/auth"
 
 // Your web app's Firebase configuration
 const firebaseConfig = {
-  apiKey: "AIzaSyB3G7lEKqTNAbdt0TKAFnIQExpdHZDrMFY",
-  authDomain: "recipeapp-eec66.firebaseapp.com",
-  projectId: "recipeapp-eec66",
-  storageBucket: "recipeapp-eec66.appspot.com",
-  messagingSenderId: "614127800815",
-  appId: "1:614127800815:web:e426341b7d6beccfb3a61a"
+  apiKey: ,
+  authDomain: ,
+  projectId:,
+  storageBucket: ,
+  messagingSenderId: ,
+  appId:
 };
 
 // Initialize Firebase
