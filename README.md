@@ -1,4 +1,7 @@
 # Aplikacja motywujaca do prowadzenia zdrowego trybu życia
+- Użytkownik aby otrzymać dostęp do danych w aplikacji musi założyć konto oraz zalogowac się.
+- W przypadku zgubienia hasła do konta użytkownik ma możliwość przypomnienia hasła poprzez formluarz wyświetlany za pomocą przycisku reset hasła. Nowe hasło użytkownik otrzymuje na podany przez niego adres e-mail.
+- Po zalogownaiu się do aplikacji użytkownik otrzymuje pełen dostęp do danych w aplikacji.  
 ## Ekran główny aplikacji
 ![Screenshot_1](https://github.com/Bartufil1/AplikacjaMotywacyjna/assets/104689537/0e6d10d3-3dfd-4c1a-8842-da77c6127d08)
 ## Ekran rejestracji oraz logowania
